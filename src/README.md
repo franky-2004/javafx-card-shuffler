@@ -16,5 +16,4 @@ A simple JavaFX program that shuffles cards and displays messages when two cards
 - JavaFX
 
 ## Author
-Franky Ventura  
-franky@null.net
+Franky Ventura
